@@ -1,0 +1,2 @@
+MyProject2.exe filter=lfs diff=lfs merge=lfs -text
+FPSGame.exe filter=lfs diff=lfs merge=lfs -text
